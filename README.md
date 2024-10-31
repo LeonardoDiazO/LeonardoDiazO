@@ -1,4 +1,4 @@
-<img src="https://github.com/LeonardoDiazO/LeonardoDiazO/blob/main/github-header-image.png?raw=true" width="100%"/>
+<img src="https://github.com/LeonardoDiazO/LeonardoDiazO/blob/main/img/github-header-image.png" width="100%"/>
 
 <!--
 **LeonardoDiazO/LeonardoDiazO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
