@@ -33,7 +33,6 @@ En mi perfil, espero construir una colección de proyectos y contribuciones que 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDiazO&layout=compact&theme=dark)
 
-
 <!--
 **LeonardoDiazO/LeonardoDiazO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
